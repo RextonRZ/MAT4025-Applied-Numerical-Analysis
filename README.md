@@ -48,90 +48,53 @@ The repository is structured according to course chapters:
 
 ---
 
-## 🧠 Part 1: Foundations of Digital Images
+## 📂 Curriculum & Exercises
 
-### Chapter 1: Getting Started
-- Image reading and display
-- Colormaps
-- Pixel-level manipulation
+### 🧠 Part 1: Foundations of Digital Images
 
-### Chapter 2: Sampling & Transforms
-- Shannon Sampling Theorem
-- Discrete Fourier Transform (DFT)
-- Fast Fourier Transform (FFT)
-
-### Chapter 3: Convolution & Frequency Domain
-- Low-pass filters (LPF)
-- High-pass filters (HPF)
-- Band-pass filters (BPF)
-- Notch filters
+| Chapter | Topic | Key Contents | PDF Reference |
+|--------|------|--------------|---------------|
+| Chapter 1 | Getting Started | Image reading & display, colormaps, pixel-level manipulation | |
+| Chapter 2 | Sampling & Transforms | Shannon Sampling Theorem, DFT, FFT | |
+| Chapter 3 | Convolution & Frequency Domain | Low-pass filters (LPF), High-pass filters (HPF), Band-pass filters (BPF), Notch filters | |
 
 ---
 
-## 🎨 Part 2: Enhancement & Morphology
+### 🎨 Part 2: Enhancement & Morphology
 
-### Chapter 4: Image Enhancement
-- Log transform
-- Power-law transform
-- Histogram equalization
-- Contrast stretching
-
-### Chapter 5: Image Derivatives
-- Sobel filter
-- Prewitt filter
-- Canny edge detection
-- Laplacian of Gaussian (LoG)
-
-### Chapter 6: Morphological Processing
-- Dilation
-- Erosion
-- Opening & Closing
-- Beucher gradient
+| Chapter | Topic | Key Contents | PDF Reference |
+|--------|------|--------------|---------------|
+| Chapter 4 | Image Enhancement | Log transform, power-law transform, histogram equalization, contrast stretching | |
+| Chapter 5 | Image Derivatives | Sobel filter, Prewitt filter, Canny edge detection, Laplacian of Gaussian (LoG) | |
+| Chapter 6 | Morphological Processing | Dilation, erosion, opening & closing, Beucher gradient | |
 
 ---
 
-## 🔍 Part 3: Features & Segmentation
+### 🔍 Part 3: Features & Segmentation
 
-### Chapter 7: Features & Descriptors
-- Harris Corner detection
-- SIFT
-- BRIEF
-- Haar-like features (face detection)
-
-### Chapter 8: Image Segmentation
-- Otsu thresholding
-- SLIC superpixels
-- Watershed segmentation
-- Active Contours (Snakes)
-- GrabCut algorithm
+| Chapter | Topic | Key Contents | PDF Reference |
+|--------|------|--------------|---------------|
+| Chapter 7 | Features & Descriptors | Harris Corner detection, SIFT, BRIEF, Haar-like features (face detection) | |
+| Chapter 8 | Image Segmentation | Otsu thresholding, SLIC superpixels, watershed segmentation, active contours (Snakes), GrabCut algorithm | |
 
 ---
 
-## 🧠 Part 4: Machine & Deep Learning
+### 🧠 Part 4: Machine & Deep Learning
 
-### Chapter 9: Classical Machine Learning
-- K-means clustering
-- PCA
-- kNN
-- SVM
-- Gaussian Bayes
-- Applications on MNIST and Eigenfaces
-
-### Chapters 10 & 11: Deep Learning
-- CNN implementation using TensorFlow & Keras
-- Dropout regularization
-- Architectures:
-  - GoogleNet (Inception)
-  - ResNet
+| Chapter | Topic | Key Contents | PDF Reference |
+|--------|------|--------------|---------------|
+| Chapter 9 | Classical Machine Learning | K-means clustering, PCA, kNN, SVM, Gaussian Bayes, MNIST, Eigenfaces | |
+| Chapters 10–11 | Deep Learning | CNN (TensorFlow & Keras), dropout, GoogLeNet (Inception), ResNet | |
 
 ---
 
-# 📚 References
+## 📚 Notes
 
-- Main Textbook: *Hands-On Image Processing with Python* by Sandipan Dey (Packt Publishing)  
-- Instructor: Kwun Ki-woon (권기운), Dongguk University  
-
----
+| Section | Details |
+|--------|----------|
+| Main Textbook | Hands-On Image Processing with Python (Sandipan Dey) |
+| Instructor | Kwun Ki-woon (권기운), Dongguk University |
+| Disclaimer | Educational purposes only. All lecture materials belong to Dongguk University. |
 
 # ⚠️ Disclaimer
 
