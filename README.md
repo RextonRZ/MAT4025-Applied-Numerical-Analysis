@@ -52,7 +52,7 @@ The repository is structured according to course chapters:
 
 ### 🧠 Part 1: Foundations of Digital Images
 
-| Chapter | Topic | Key Contents | Notes | Source Code |
+| Chapter | Topic | Key Contents | Note | Source Code |
 |--------|------|--------------|---------------|-------|
 | Chapter 1 | Getting Started | Image reading & display, colormaps, pixel-level manipulation | [제1강.pdf](./제1강.pdf) |  [Week1Ch1.py](./Week1Ch1.py) |
 | Chapter 2 | Sampling & Transforms | Shannon Sampling Theorem, DFT, FFT |[제2강.pdf](./제2강.pdf) <br> [제3강.pdf](./제3강.pdf) | [Week2Ch1.py](./Week2Ch1.py) |
@@ -62,29 +62,29 @@ The repository is structured according to course chapters:
 
 ### 🎨 Part 2: Enhancement & Morphology
 
-| Chapter | Topic | Key Contents | PDF Reference |
-|--------|------|--------------|---------------|
-| Chapter 4 | Image Enhancement | Log transform, power-law transform, histogram equalization, contrast stretching | [제5강.pdf](./제5강.pdf) |
-| Chapter 5 | Image Derivatives | Sobel filter, Prewitt filter, Canny edge detection, Laplacian of Gaussian (LoG) | [제6강.pdf](./제6강.pdf) |
-| Chapter 6 | Morphological Processing | Dilation, erosion, opening & closing, Beucher gradient | [제7강.pdf](./제7강.pdf) |
+| Chapter | Topic | Key Contents | Note | Source Code |
+|--------|------|--------------|---------------|-------|
+| Chapter 4 | Image Enhancement | Log transform, power-law transform, histogram equalization, contrast stretching | [제5강.pdf](./제5강.pdf) | [Week4Ch3.py](./Week4Ch3.py) |
+| Chapter 5 | Image Derivatives | Sobel filter, Prewitt filter, Canny edge detection, Laplacian of Gaussian (LoG) | [제6강.pdf](./제6강.pdf) | [Week4Ch4.py](./Week4Ch4.py) |
+| Chapter 6 | Morphological Processing | Dilation, erosion, opening & closing, Beucher gradient | [제7강.pdf](./제7강.pdf) | [Week5Ch4.py](./Week5Ch4.py) |
 
 ---
 
 ### 🔍 Part 3: Features & Segmentation
 
-| Chapter | Topic | Key Contents | PDF Reference |
-|--------|------|--------------|---------------|
-| Chapter 7 | Features & Descriptors | Harris Corner detection, SIFT, BRIEF, Haar-like features (face detection) | [제9강.pdf](./제9강.pdf) |
-| Chapter 8 | Image Segmentation | Otsu thresholding, SLIC superpixels, watershed segmentation, active contours (Snakes), GrabCut algorithm | [제10강.pdf](./제10강.pdf) |
+| Chapter | Topic | Key Contents | Note | Source Code |
+|--------|------|--------------|---------------|-------|
+| Chapter 7 | Features & Descriptors | Harris Corner detection, SIFT, BRIEF, Haar-like features (face detection) | [제9강.pdf](./제9강.pdf) |[Week6Ch5.py](./Week6Ch5.py) |
+| Chapter 8 | Image Segmentation | Otsu thresholding, SLIC superpixels, watershed segmentation, active contours (Snakes), GrabCut algorithm | [제10강.pdf](./제10강.pdf) |[Week7Ch6.py](./Week7Ch6.py) |
 
 ---
 
 ### 🧠 Part 4: Machine & Deep Learning
 
-| Chapter | Topic | Key Contents | PDF Reference |
-|--------|------|--------------|---------------|
-| Chapter 9 | Classical Machine Learning | K-means clustering, PCA, kNN, SVM, Gaussian Bayes, MNIST, Eigenfaces |[제12강.pdf](./제12강.pdf) <br>[제13강.pdf](./제13강.pdf) |
-| Chapters 10–11 | Deep Learning | CNN (TensorFlow & Keras), dropout, GoogLeNet (Inception), ResNet | [제14강.pdf](./제14강.pdf)<br>[제15강.pdf](./제15강.pdf) |
+| Chapter | Topic | Key Contents | Note | Source Code |
+|--------|------|--------------|---------------|-------|
+| Chapter 9 | Classical Machine Learning | K-means clustering, PCA, kNN, SVM, Gaussian Bayes, MNIST, Eigenfaces |[제12강.pdf](./제12강.pdf) <br>[제13강.pdf](./제13강.pdf) |[Week9Ch7_2.py](./Week9Ch7_2.py) |
+| Chapters 10–11 | Deep Learning | CNN (TensorFlow & Keras), dropout, GoogLeNet (Inception), ResNet | [제14강.pdf](./제14강.pdf)<br>[제15강.pdf](./제15강.pdf) |[Week9Ch7_2.py](./Week9Ch7_2.py) |
 
 ## 📚 Notes
 
