@@ -52,11 +52,11 @@ The repository is structured according to course chapters:
 
 ### 🧠 Part 1: Foundations of Digital Images
 
-| Chapter | Topic | Key Contents | PDF Reference |
-|--------|------|--------------|---------------|
-| Chapter 1 | Getting Started | Image reading & display, colormaps, pixel-level manipulation | [제1강.pdf](./제1강.pdf) |
-| Chapter 2 | Sampling & Transforms | Shannon Sampling Theorem, DFT, FFT |[제2강.pdf](./제2강.pdf) <br> [제3강.pdf](./제3강.pdf) |
-| Chapter 3 | Convolution & Frequency Domain | Low-pass filters (LPF), High-pass filters (HPF), Band-pass filters (BPF), Notch filters |[제3강.pdf](./제3강.pdf)<br>[제4강.pdf](./제4강.pdf)|
+| Chapter | Topic | Key Contents | Notes | Source Code |
+|--------|------|--------------|---------------|-------|
+| Chapter 1 | Getting Started | Image reading & display, colormaps, pixel-level manipulation | [제1강.pdf](./제1강.pdf) |  [Week1Ch1.py](./Week1Ch1.py) |
+| Chapter 2 | Sampling & Transforms | Shannon Sampling Theorem, DFT, FFT |[제2강.pdf](./제2강.pdf) <br> [제3강.pdf](./제3강.pdf) | [Week2Ch1.py](./Week2Ch1.py) |
+| Chapter 3 | Convolution & Frequency Domain | Low-pass filters (LPF), High-pass filters (HPF), Band-pass filters (BPF), Notch filters |[제3강.pdf](./제3강.pdf)<br>[제4강.pdf](./제4강.pdf)|[Week3Ch2.py](./Week3Ch2.py) |
 
 ---
 
