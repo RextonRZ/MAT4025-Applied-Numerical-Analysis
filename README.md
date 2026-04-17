@@ -1,5 +1,4 @@
-# MAT4025: Applied Numerical Analysis and Practice  
-*(응용수치해석 및 실습)*
+# MAT4025: Applied Numerical Analysis and Practice  *(응용수치해석 및 실습)*
 
 This repository contains numerical analysis exercises, image processing implementations, and machine learning models developed during the **MAT4025 course at Dongguk University**.
 
